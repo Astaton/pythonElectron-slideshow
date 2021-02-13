@@ -1,0 +1,37 @@
+.app_container {
+  display: flex;
+  flex-direction: row;
+  height: 100vh;
+}
+
+
+.main_container {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+
+.sidebar_container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 400px;
+  height: 100%;
+}
+
+
+.file_explorer_container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 75%;
+}
+
+
+.details_container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 25%;
+}
